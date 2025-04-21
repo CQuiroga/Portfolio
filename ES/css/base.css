@@ -120,7 +120,7 @@ iframe{width:100%;frameborder:0;}
 	    position: absolute;
 	    top: 37px;
 	    width: 3%;
-	    display: none;
+	    /* display: none; */
 	}
 	
 	.tgreyHolder .bigTitle img {

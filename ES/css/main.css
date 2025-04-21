@@ -200,13 +200,7 @@ opacity:0.1}
     text-transform: uppercase;
 }
 
-
-
-
 /*End teaser profile*/
-
-
-
 
 /*Header*/
 
@@ -215,11 +209,7 @@ header{
 	z-index:1000;
 	background-color: rgba(255, 255, 255, 0.97);
 	position:absolute;
-
-
 }
-
-
 
 header.fixed {
     left: 0;
@@ -229,12 +219,9 @@ header.fixed {
     z-index: 1000;
 }
 
-
 header.base{
 	background-color: rgba(255, 255, 255, 0.15);
 	margin-top:-81px;
-
-
 }
 .switchedHeader {
     position: fixed;
@@ -291,14 +278,9 @@ header.base{
 	font-size:20px;
 	color:#343434;
 }
-
-
-
 /*End header*/
 
-
 /*About section*/
-
 
 .profile{
 	padding-bottom:100px;
@@ -327,13 +309,11 @@ h1.prfTitle, .info h1, .intro h1{
 	 margin-bottom: 10px;
 }
 
-
 h1.prfTitle {
     color: #f1f1f1;
     display: block;
     font-size: 28px;
     margin-top: 5px;
-
 }
 
 h1.prfTitle span {
@@ -341,7 +321,6 @@ h1.prfTitle span {
     display: block;
     font-size: 12px;
     margin-top: 5px;
-
 }
 .innerProfile{
 	margin-top: 100px;	
@@ -382,26 +361,12 @@ h1.prfTitle span {
 	border-color:#f1f1f1;
 	text-transform:uppercase;
 }
-
-
-
 .innerProfile .btnLaunch:hover{
 	color:#343434;
 	background:#f1f1f1;
 }
-
-
-
 /*End about section*/
-
-
-
-
-
-
 /*Resume*/
-
-
 .resumeDetails{
 	text-align:left;
 }
@@ -523,8 +488,6 @@ h1.prfTitle span {
     width: 0;
 }
 
-
-
 .recognitionHolder {
     position: relative;
 }
@@ -582,8 +545,6 @@ h1.prfTitle span {
 	padding-bottom:10px;
 }
 
-
-
 .rcg:last-child .rcgDet {
     border-bottom: 0 none;
 }
@@ -606,10 +567,6 @@ h1.prfTitle span {
     line-height: 28px;
     padding: 0 260px;
 }
-
-
-
-
 
 .skillTitle h1{
 	font-size:18px;
@@ -722,25 +679,18 @@ h1.prfTitle span {
 	border-right:3px solid #343434;
 }
 
-
 /*End resume*/
 
-
-
 /*Portfolio section*/
-
-
 .filterNav {
     text-align: center;
 }
-
 
 ul#category li {
     display: inline-block;
 	font-size:12px;
 	margin-right:5px;
 }
-
 
 ul#category li a {
     color: #999999;
@@ -750,11 +700,9 @@ ul#category li a {
 	font-size:14px;
 }
 
-
 #category .current a{
 	color:#343434;
 }
-
 
 #category .current a:after {
     border-bottom: 1px solid #37b0ac;
@@ -846,8 +794,6 @@ ul#category li a {
 	margin-bottom:20px;
 }
 
-
-
 .prjLink {
     background:rgba(36, 36, 36, 0.8);
     height: 100%;
@@ -857,8 +803,6 @@ ul#category li a {
     width: 100%;
 	z-index:10;
 }
-
-
 
 .prj:hover img {
     transform: scale(1.2);
@@ -877,19 +821,13 @@ ul#category li a {
     padding: 5px 13px;
 }
 
-
-
 .stp h3{
 	margin-bottom:5px;
 	text-transform:none;
 }
-
 /*End portfolio section*/
 
-
-
 /*Twitter feed*/
-
 
 .feed {
     border-top: 1px dashed #f2f2f1;
@@ -918,8 +856,6 @@ ul#category li a {
 	font-size:12px;
 }
 
-
-
 .tweets .tweet_list {
 	margin-top:40px;
     color: #343434;
@@ -939,13 +875,8 @@ ul#category li a {
     padding-top: 10px;
 }
 
-
 /*End twitter feed*/
-
-
-
 /*Call to action */
-
 
 .clt{
 	padding-top: 50px;
@@ -974,13 +905,9 @@ ul#category li a {
 	color:#d7d4d4;
 	background:#706c6b;
 }
-
 /*End call to action*/
 
-
-
 /*Blog section*/
-
 
 .blog .smallIntro p {
     color: #999999;
@@ -1066,11 +993,6 @@ ul#category li a {
 .pstLInner span a:hover {
     color: #999999;
 }
-
-
-
-
-
 .postSingle, .sidebar {
 	margin-bottom: 70px;
 }
@@ -1111,9 +1033,6 @@ ul#category li a {
 .postMedia{
 	margin-bottom:15px !important;
 }
-
-
-
 
 .more a{
 	background:#343434;
@@ -1190,8 +1109,6 @@ ul#category li a {
     color: #f1f1f1;
 }
 
-
-
 .entriesContainer {
     margin-top: 40px;
 }
@@ -1246,8 +1163,6 @@ ul#category li a {
 .comments .reply-btn a:hover {
     color: #37b0ac;
 }
-
-
 
 .commentContent .date a {
     color: #37b0ac;
@@ -1326,17 +1241,13 @@ ul#category li a {
     cursor: help;
 }
 
-
-
 /*End blog section*/
-
-
 
 /*Contact section*/
 
-#contact {
+/* #contact {
     background-color: rgba(37, 88, 171, .05);
-}
+} */
 
 .contact .smallIntro p {
     color: #999999;
@@ -1386,12 +1297,10 @@ ul#category li a {
     color: #f1f1f1;
 }
 
-
 #success, #error {
     display: none;
     position: relative;
 }
-
 
 #success h2, #error h2 {
     color: #1FB4DA;
@@ -1415,8 +1324,6 @@ ul#category li a {
 	margin-top:-7px;
 }
 
-
-
 .contactInner h1 {
 	font-size:16px;
 	margin-bottom:15px;
@@ -1426,12 +1333,7 @@ ul#category li a {
 	margin-bottom:2px;
 }
 
-
 /*End contact section*/
-
-
-
-
 /*Instagram feed*/
 
 .instaInner {
@@ -1500,8 +1402,6 @@ ul#category li a {
 }
 
 /*End instagram feed*/
-
-
 /*Footer*/
 
 .footerTop{
@@ -1547,11 +1447,24 @@ ul#category li a {
     padding: 0 12px;
 }
 
-
 /*End footer*/
 
 
+/* Custom styles */
 
+a {
+	color: inherit;
+	text-decoration: none;
+  }
+
+a:visited {
+	color: inherit;
+  }
+
+a.btnLaunch{
+	color: white;
+}
+	
 /* -------------------- Media queries -------------------- */
 
 
